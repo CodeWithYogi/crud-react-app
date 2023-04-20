@@ -1,0 +1,10 @@
+main{
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.inner-div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
